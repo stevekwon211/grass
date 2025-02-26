@@ -9,3 +9,6 @@ export default function Home() {
     </main>
   );
 }
+
+// Metadata needs to be in a separate file for client components
+// or in the layout.tsx file
